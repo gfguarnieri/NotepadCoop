@@ -1,0 +1,7 @@
+{
+  "name": "NotepadCoop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
